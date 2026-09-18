@@ -23,5 +23,5 @@ Il Natale si avvicina, scrivi una letterina con l’elenco dei regali che deside
 
 * **Download:** [Google Play Store](https://play.google.com/store/apps/details?id=it.rocci.app.LetterinaDiNatale) | [Apple App Store](#)
 * **Documentazione Legale & Supporto:**
-  * [Informativa Privacy](/apps/nome-app/privacy)
+  * [Informativa Privacy](/apps/project-august-41/privacy/)
   * [Supporto & FAQ](/apps/nome-app/support)
